@@ -28,8 +28,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f5c4b999-a496-4c87-8bb0-202949b42465}</ProjectGuid>
-    <RootNamespace>test</RootNamespace>
+    <ProjectGuid>{285eccfc-c6fd-4a58-80ad-4369da58d7e8}</ProjectGuid>
+    <RootNamespace>OOP03PrechtlRenzlSchurz</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Kontoverwaltung</ProjectName>
   </PropertyGroup>
