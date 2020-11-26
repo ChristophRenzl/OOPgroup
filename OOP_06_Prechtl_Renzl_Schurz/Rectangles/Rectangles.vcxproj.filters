@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\OOP_06_Prechtl_Renzl_Schurz\RectangleArea.h">
+    <ClInclude Include="RectangleArea.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

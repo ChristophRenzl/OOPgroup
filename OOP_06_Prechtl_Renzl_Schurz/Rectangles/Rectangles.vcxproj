@@ -142,7 +142,7 @@
     <ClCompile Include="Rectangles.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\OOP_06_Prechtl_Renzl_Schurz\RectangleArea.h" />
+    <ClInclude Include="RectangleArea.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
