@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{22f9dc72-4465-4429-83ba-040234752c7e}</ProjectGuid>
-    <RootNamespace>OOP06PrechtlRenzlSchurz</RootNamespace>
+    <ProjectGuid>{fc0f1c6a-ef7a-470b-bf42-ea8bf76c3f7d}</ProjectGuid>
+    <RootNamespace>Rectangles</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Rectangle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Rectangles.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\OOP_06_Prechtl_Renzl_Schurz\RectangleArea.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
